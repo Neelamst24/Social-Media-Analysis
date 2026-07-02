@@ -14,3 +14,8 @@
 MySQL(Joins, Aggregations, Window Functions, CTEs)
 
 💡This project helped me understand real-world data querying, improved my SQL skills, and enhanced my ability to derive insights from structured data.
+
+.
+🗄️ Database Architecture
+The analysis is built upon a robust 7-table relational schema mapping complex platform interactions: image
+
